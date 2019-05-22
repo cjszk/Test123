@@ -1,0 +1,10 @@
+C:\Users\v-chrwh\source\repos\Chess\ChessSolution\ChessForm\obj\Debug\Chess.ChessForm.resources
+C:\Users\v-chrwh\source\repos\Chess\ChessSolution\ChessForm\obj\Debug\ChessForm.Properties.Resources.resources
+C:\Users\v-chrwh\source\repos\Chess\ChessSolution\ChessForm\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\v-chrwh\source\repos\Chess\ChessSolution\ChessForm\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\v-chrwh\source\repos\Chess\ChessSolution\ChessForm\obj\Debug\ChessForm.exe
+C:\Users\v-chrwh\source\repos\Chess\ChessSolution\ChessForm\obj\Debug\ChessForm.pdb
+C:\Users\v-chrwh\source\repos\Chess\ChessSolution\ChessForm\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\v-chrwh\source\repos\Chess\ChessSolution\ChessForm\bin\Debug\ChessForm.exe.config
+C:\Users\v-chrwh\source\repos\Chess\ChessSolution\ChessForm\bin\Debug\ChessForm.exe
+C:\Users\v-chrwh\source\repos\Chess\ChessSolution\ChessForm\bin\Debug\ChessForm.pdb
